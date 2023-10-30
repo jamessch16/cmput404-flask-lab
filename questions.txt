@@ -1,0 +1,20 @@
+
+1. Flask is simpler than Django and more lightweight. It's better for small scale projects. Django is more scalable and better for large scale projects.
+
+2. REST stands for Representational State Transfer. Something is RESTful if it conforms to REST architecture.
+
+3. CRUD stands for Create, Read, Update and Delete. These correspond to HTTP methods:
+CRUD => HTTP
+Create => POST
+Read => GET
+Update => PUT
+Delete =? DELETE
+
+4.
+1xx: informational response (request recieved and understood, process continuing)
+2xx: successful
+3xx: redirect codes
+4xx: client error
+5xx: server error
+
+5. XSS attacks are cross-site scripting attacks. These are attacks where malicious scripts are injected into benign websites. These are usually browser client scripts.
