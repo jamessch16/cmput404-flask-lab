@@ -18,3 +18,5 @@ Delete =? DELETE
 5xx: server error
 
 5. XSS attacks are cross-site scripting attacks. These are attacks where malicious scripts are injected into benign websites. These are usually browser client scripts.
+
+6. CORS stands for cross-origin resource sharing. It servers to retrieve resources from origins that are different than its own. You might need this to interact with external API such as the twitter API.
